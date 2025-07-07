@@ -2,12 +2,12 @@
 
 This repository contains solutions to various problem-solving exercises and competitive programming challenges.
 
-## 🚀 What’s inside:
-- Solutions written in **[Language Name: C++, Python, JavaScript, etc.]**
+## What’s inside:
+- Solutions written in Python
 - Covers different topics: algorithms, data structures, and logic puzzles.
 - Well-structured and commented code for better understanding.
 
-## 📝 Why this repository?
+## Why this repository?
 I created this repository to:
 - Practice and improve my problem-solving skills.
 - Prepare for coding interviews and competitive programming contests.
@@ -21,7 +21,7 @@ problems/
 └── hard/
 
 
-## 🛠 How to use:
+## How to use:
 1. Browse the folders by difficulty or topic.
 2. Read the problem statement (if available).
 3. Check the solution files and explanations.
