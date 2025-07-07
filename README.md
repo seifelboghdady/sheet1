@@ -16,8 +16,11 @@ I created this repository to:
 ## 📂 Folder Structure:
 problems/
 │
+
 ├── easy/
+
 ├── medium/
+
 └── hard/
 
 
